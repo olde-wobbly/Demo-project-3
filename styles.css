@@ -4,13 +4,25 @@
     font-size: 18px;
 }
 
-.p .paragraph1 {
-
+.list1, 
+.list2 { font-weight: bold;
 }
 
+.list1 {
+    color: aqua;
+    background-color: red;
+}
+
+.list2 {
+    color: red;
+    background-color: aqua;
+}
+
+.imgformat {
+    background-color: tomato;
+}
 .imgsize {
     height: auto;
     width: 300px;
-    background-color: black;
-    image-orientation: flip;
+
 }
